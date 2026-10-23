@@ -1,0 +1,5 @@
+*.osm.pbf
+.venv*/
+__pycache__/
+*.pyc
+.streamlit/
